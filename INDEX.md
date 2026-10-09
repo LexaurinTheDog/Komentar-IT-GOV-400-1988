@@ -1,0 +1,5 @@
+# INDEX — Commento alla legge 23 agosto 1988, n. 400 – Disciplina dell'attività di Governo e ordinamento della Presidenza del Consiglio dei Ministri
+
+- [00-introduzione.md](00-introduzione.md) — Introduzione, metodo, dati essenziali
+- [01-organi-governo-regioni-potesta-normativa.md](01-organi-governo-regioni-potesta-normativa.md) — Capitolo del commento 01: Gli organi del Governo, i rapporti tra lo Stato, le regioni e le province autonome e la potestà normativa del Governo: Consiglio dei ministri, Presidente del Consiglio, ministri, sottosegretari, commissari straordinari, Conferenza Stato-regioni, decreti legislativi, decreti-legge, regolamenti e testi unici (artt. 1–17-bis)
+- [02-presidenza-consiglio-personale-norme-finali.md](02-presidenza-consiglio-personale-norme-finali.md) — Capitolo del commento 02: Organizzazione amministrativa della Presidenza del Consiglio dei ministri, personale e norme finali e finanziarie: Segretariato generale, uffici e dipartimenti, consulenti, trattamento economico, inquadramenti (artt. 18–41)
